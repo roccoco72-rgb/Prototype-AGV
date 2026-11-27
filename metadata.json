@@ -1,0 +1,6 @@
+{
+  "name": "AGV Entscheidungscockpit Bauzeitversicherung",
+  "description": "Human-in-the-Loop Entscheidungscockpit der Aargauischen Gebäudeversicherung (AGV) für 1-Click Standard-Freigaben und geführte Risikoprüfungen in der Bauzeitversicherung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
